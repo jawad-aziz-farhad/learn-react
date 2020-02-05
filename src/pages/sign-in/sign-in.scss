@@ -1,0 +1,10 @@
+form {
+    animation: form-anim 5s ease-in-out 2s infinite alternate-reverse;
+}
+
+@keyframes form-anim1 {
+    0%   {transform: translateY(0px);  }
+    50%  {transform: translateY(-100px) }
+    100% {opacity : 1;transform: translateX(0px)}
+}
+

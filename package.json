@@ -23,7 +23,7 @@
     "font-awesome": "^4.7.0",
     "history": "^4.10.1",
     "jquery": "^3.4.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "popper": "^1.0.1",
     "popper.js": "^1.16.1",
     "prop-types": "^15.7.2",
